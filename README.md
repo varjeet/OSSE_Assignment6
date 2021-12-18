@@ -9,11 +9,26 @@ Doctors can also view the previous check-up history of his patient which enables
 This application also incorporates the feauture of managing staff's activity along with patients admission-booking and billing etc. All of the staffs will have an account that let them be notified of their routine. 
 It enables pathology documents maintenance digitally. 
 
+## Features
+### Doctor Register/Login
+### Patient Register/Login
+### Receptionist Register/Login
+### Patient can book an Appointment
+### Cancel appointment
+### Generate Prescription
+### View Prescriptions
+### Calender Views for Doctor and Patient
+### Generate Invoice 
+
+
 
 
 ## Group Members:
 | Name | Bits Roll No. | Bits Mail ID |
 | -------------- | ----------------- | ---------------------------------------- |
+
 |Varjeet Singh | 2020sp93020 | 2020sp93020@wilp.bits-pilani.ac.in | 
-|Pravallika Gabdesiri | 2020sp93027| 2020sp93027@wilp.bits-pilani.ac.in |
+
+|Pravalika Gandesiri | 2020sp93027| 2020sp93027@wilp.bits-pilani.ac.in |
+
 |Anvitha Bhat| 2020sp93093 | 2020sp93093@wilp.bits-pilani.ac.in |
