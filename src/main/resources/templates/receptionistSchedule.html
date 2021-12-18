@@ -37,7 +37,14 @@ border-spacing: 10px;
             <th>Description</th>
             <th>start</th>
             <th>finish</th>
-        </tr>        
+        </tr>     
+        <tr th:each="event : ${events}">
+            <td th:text="${event.name}"></td>
+          	<td th:text="${event.title}"></td>
+          	<td th:text="${event.description}"></td>
+          	<td th:text="${event.start}"></td>
+          	<td th:text="${event.finish}"></td>
+        </tr>   
     </table>
 </body>
 </html>
